@@ -1,8 +1,8 @@
-import Carousel from "./Carousel"
+import Carousel from "./Carousel";
 const App = () => {
   return (
     <main>
-      <h2></h2>
+      <h2>i love you</h2>
       <Carousel/>
     </main>
   );
