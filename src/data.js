@@ -7,7 +7,7 @@ export const shortList = [
     quote:
       'Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok mustache.',
   },
-];-
+];
 
 export const list = [
   {
