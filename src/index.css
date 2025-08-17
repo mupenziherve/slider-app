@@ -260,7 +260,7 @@ width: 80vw;
 max-width: 800px;
 position: relative;
 height: 450px;
- /* overflow: hidden; */
+overflow: hidden;
 }
 
 .slide{
