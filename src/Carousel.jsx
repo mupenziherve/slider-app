@@ -54,6 +54,8 @@ const Carousel = () => {
          <button type="button" className="next" onClick={nextSlide}>
           <FiChevronRight/> </button>
           </section>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est expedita eaque officiis velit dolore! Inventore illo reiciendis magni nesciunt, adipisci fuga libero voluptatum commodi dolores labore dolorum ab deleniti rerum.
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa repudiandae nihil labore suscipit saepe voluptate adipisci dicta nisi voluptatibus commodi magnam ut asperiores similique, quis sequi quo odio fuga quod.
 
   )
 };
